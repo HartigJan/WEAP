@@ -1,0 +1,4 @@
+Aplikace běží na Heroku, připojuje na MongoDB, kde se ukládají jednotlivé TODO položky
+
+https://weap-todo-jnhrtg.herokuapp.com/
+
